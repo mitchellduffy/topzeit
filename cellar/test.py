@@ -1,3 +1,7 @@
+#Adapted from:
+#https://github.com/arc64/zon-skeleton-py/blob/master/example.py
+#Author: arc64
+
 #!/usr/bin/env python
 import requests
 import json
