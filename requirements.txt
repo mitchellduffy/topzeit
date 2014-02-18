@@ -1,0 +1,5 @@
+
+peewee ORM:
+http://peewee.readthedocs.org/en/latest/index.html
+to install: pip install peewee
+

@@ -1,6 +1,7 @@
 import requests
 from requests.auth import HTTPBasicAuth
 import json
+import sqlite3
 
 #import logging
 #
@@ -26,7 +27,7 @@ endpoint = 'http://api.zeit.de/content?'
 payload = {
         'q': '*:*',
         'fields': '*',
-        'limit': '1',
+        'limit': '1000',
         'offset': '0'
 }
 

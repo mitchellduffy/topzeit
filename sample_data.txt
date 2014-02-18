@@ -1,0 +1,23 @@
+{u'matches': 
+
+[{u'subtitle': u'Die geplante Versch\xe4rfung des Abtreibungsrechts in Spanien st\xf6\xdft auf heftigen Widerstand. In Madrid sind erneut Tausende Menschen auf die Stra\xdfe gegangen.', 
+
+u'uuid': u'1FN5cHRtBOwVfDdNMcDIR0', 
+
+u'title': u'Spanier demonstrieren f\xfcr Recht auf Abtreibung', 
+
+u'release_date': u'2014-02-08T17:24:29Z', 
+
+u'uri': u'http://api.zeit.de/content/1FN5cHRtBOwVfDdNMcDIR0', 
+
+u'supertitle': u'Madrid', 
+
+u'href': u'http://www.zeit.de/gesellschaft/zeitgeschehen/2014-02/spanien-madrid-protest-abtreibung', 
+
+u'teaser_text': u'Die geplante Versch\xe4rfung des Abtreibungsrechts in Spanien st\xf6\xdft auf heftigen Widerstand. In Madrid sind erneut Tausende Menschen auf die Stra\xdfe gegangen.', 
+
+u'teaser_title': u'Spanier demonstrieren f\xfcr Recht auf Abtreibung'}], 
+
+u'found': 393954, 
+u'limit': 1, 
+u'offset': 0}
